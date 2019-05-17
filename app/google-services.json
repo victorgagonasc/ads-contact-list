@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "942212172751",
+    "firebase_url": "https://unicontatos-8b894.firebaseio.com",
+    "project_id": "unicontatos-8b894",
+    "storage_bucket": "unicontatos-8b894.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942212172751:android:b6955dc35932b9f8",
+        "android_client_info": {
+          "package_name": "com.ads.unimetrocamp.contactlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942212172751-a6ut5qab86h75kkchrha0j3rdj4knrp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ads.unimetrocamp.contactlist",
+            "certificate_hash": "78575e070c193be09cf4dc90c7638da392d7ec13"
+          }
+        },
+        {
+          "client_id": "942212172751-4qbgqlsmfb06b7h1oika5t62bd2iq4gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKEIvp4aXiVlELwwidDNO7cqS7XvThjvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942212172751-4qbgqlsmfb06b7h1oika5t62bd2iq4gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942212172751:android:8f86fb4ada027b3a",
+        "android_client_info": {
+          "package_name": "com.ads.unimetrocamp.listadecontatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942212172751-pvahfqm1enm4gnblqtlcqv4tah4huilj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ads.unimetrocamp.listadecontatos",
+            "certificate_hash": "78575e070c193be09cf4dc90c7638da392d7ec13"
+          }
+        },
+        {
+          "client_id": "942212172751-4qbgqlsmfb06b7h1oika5t62bd2iq4gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKEIvp4aXiVlELwwidDNO7cqS7XvThjvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942212172751-4qbgqlsmfb06b7h1oika5t62bd2iq4gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942212172751:android:95c3a6b8e632f5b4",
+        "android_client_info": {
+          "package_name": "com.example.unicontatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942212172751-c1c8al51hm49fps1cmor6ct7th4tv66n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unicontatos",
+            "certificate_hash": "78575e070c193be09cf4dc90c7638da392d7ec13"
+          }
+        },
+        {
+          "client_id": "942212172751-4qbgqlsmfb06b7h1oika5t62bd2iq4gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKEIvp4aXiVlELwwidDNO7cqS7XvThjvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942212172751-4qbgqlsmfb06b7h1oika5t62bd2iq4gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942212172751:android:8248be76b0d07206",
+        "android_client_info": {
+          "package_name": "com.unimetrocamp.ads.listadecontatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942212172751-c2jh1vfescp8ld1fthmvqrilv7fac614.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unimetrocamp.ads.listadecontatos",
+            "certificate_hash": "7335d9ae684a32d72c81b5fec43dabcf3224db85"
+          }
+        },
+        {
+          "client_id": "942212172751-4qbgqlsmfb06b7h1oika5t62bd2iq4gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKEIvp4aXiVlELwwidDNO7cqS7XvThjvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942212172751-4qbgqlsmfb06b7h1oika5t62bd2iq4gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
